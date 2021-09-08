@@ -1,0 +1,3 @@
+/Users/yulian/Google Drive/School/NYU Tandon Bridge/Week 14/Notes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yulian/Google Drive/School/NYU Tandon Bridge/Week 14/Notes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yulian/Google Drive/School/NYU Tandon Bridge/Week 14/Notes/cmake-build-debug/CMakeFiles/Notes.dir
